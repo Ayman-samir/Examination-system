@@ -1,5 +1,5 @@
 ﻿CREATE TABLE [dbo].[Department] (
-  [Id] [int] NOT NULL,
+  [Id] [int] IDENTITY,
   [Name] [varchar](50) NOT NULL,
   [Description] [varchar](50) NULL,
   [Location] [varchar](50) NULL,
