@@ -3,5 +3,6 @@
   <Version>2</Version>
   <StaticDataLinks>
     <StaticDataLink>dbo.Department</StaticDataLink>
+    <StaticDataLink>dbo.Student</StaticDataLink>
   </StaticDataLinks>
 </StaticDataList>
