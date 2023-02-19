@@ -5,3 +5,5 @@ INSERT dbo.Department(Id, Name, Description, Location, MangerId) VALUES (4, 'ux'
 INSERT dbo.Department(Id, Name, Description, Location, MangerId) VALUES (5, 'mk', 'markiting', 'Mansoura', '4');
 
 INSERT dbo.Department(Id, Name, Description, Location, MangerId) VALUES (6, 'pd', 'prof', 'mansoura', '5');
+
+INSERT dbo.Department(Id, Name, Description, Location, MangerId) VALUES (7, 'os', 'open source', 'manoura', '6');
