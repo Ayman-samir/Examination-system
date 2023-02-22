@@ -1,0 +1,10 @@
+﻿INSERT dbo.Course_Topic(course_id, topic_id) VALUES (1, 1);
+INSERT dbo.Course_Topic(course_id, topic_id) VALUES (1, 4);
+INSERT dbo.Course_Topic(course_id, topic_id) VALUES (1, 5);
+INSERT dbo.Course_Topic(course_id, topic_id) VALUES (1, 6);
+INSERT dbo.Course_Topic(course_id, topic_id) VALUES (1, 9);
+INSERT dbo.Course_Topic(course_id, topic_id) VALUES (2, 1);
+INSERT dbo.Course_Topic(course_id, topic_id) VALUES (2, 2);
+INSERT dbo.Course_Topic(course_id, topic_id) VALUES (2, 3);
+INSERT dbo.Course_Topic(course_id, topic_id) VALUES (2, 7);
+INSERT dbo.Course_Topic(course_id, topic_id) VALUES (2, 8);
